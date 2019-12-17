@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "중구필동"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/profile.jpg"
   bio              : "중구필동의 블로그"
   location         : #""
   email            :

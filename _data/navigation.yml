@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Selenium with Java"
-    url: https:/bapbulss.github.io
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /archive-layout-with-content/
+  - title: "About"
+    url: /404.html
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
