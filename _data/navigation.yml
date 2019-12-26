@@ -1,12 +1,8 @@
 # main links
 main:
   - title: "Selenium with Java"
-    url: /archive-layout-with-content/
+    url: /categories/selenium/
   - title: "About"
     url: /404.html
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Categories"
+    url: /categories
