@@ -2,7 +2,7 @@
 main:
   - title: "Selenium with Java"
     url: /categories/selenium/
-  - title: "About"
-    url: /404.html
+  - title: "REST API with Java"
+    url: /categories/restapi/"
   - title: "Categories"
     url: /categories
