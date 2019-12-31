@@ -1,8 +1,8 @@
 ---
 title: "RESTAPI with Java"
-permalink: /categories/restapi/
+permalink: /categories/RESTAPI/
 layout: category
 author_profile: true
-taxonomy: HttpURLConnection
+taxonomy: RESTAPI
 ---
 Let's see HttpURLConnection with Java

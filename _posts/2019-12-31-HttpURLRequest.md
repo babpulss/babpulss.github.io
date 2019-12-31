@@ -1,7 +1,7 @@
 ---
 title: "HttpURLRequest"
 categories:
- - "restapi"
+ - "RESTAPI"
 ---
 HttpURLRequest클래스 사용하여 REST API를 사용할 수 있습니다.  
 REST API를 사용하기 위한 예제 사이트로는 <https://jsonplaceholder.typicode.com/albums>입니다.
